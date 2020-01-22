@@ -1,0 +1,2 @@
+<button type="primary" class="btn-img" bindtap="chooseImage">选择图片</button>
+<button type="primary" class="btn-img" bindtap="compressImage">压缩图片</button>

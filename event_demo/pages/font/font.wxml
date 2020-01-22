@@ -1,0 +1,4 @@
+<view>
+ <button bindtap="downLoadFont">加载网络字体</button>
+ <view class="font-face">{{fontShow}}</view>
+</view>

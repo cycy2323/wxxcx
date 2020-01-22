@@ -1,0 +1,2 @@
+<!--pages/case/photo.wxml-->
+<image src="{{imgSrc}}" class="photoImg"></image>

@@ -1,0 +1,5 @@
+<!--pages/case/case.wxml-->
+  <camera device-position="front" flash="off" class="camera-cls" bindtap="takePhoto"></camera>
+  <cover-view class="people1"></cover-view>
+  <cover-view class="people2"></cover-view>
+  <cover-view class="red-cricle" bindtap="takePhoto"></cover-view>

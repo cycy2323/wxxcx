@@ -1,0 +1,45 @@
+{
+  "pages": [
+    "pages/openData/openData",
+    "pages/navigationBar/navigationBar",
+    "pages/machine/machine",
+    "pages/saveFile/saveFile",
+    "pages/font/font",
+    "pages/image/image",
+    "pages/camera&audio/camera&audio",
+    "pages/backgroundAudio/backgroundAudio",
+    "pages/record/record",
+    "pages/webSocket/webSocket",
+    "pages/network/network",
+    "pages/tuyaDemo/tuyaDemo",
+    "pages/tuya_canvas/tuya_canvas",
+    "pages/canvas/canvas",
+    "pages/map/map",
+    "pages/case/case",
+    "pages/camera/camera",
+    "pages/form/form",
+    "pages/menu/menu",
+    "pages/audio/audio",
+    "pages/index/index",
+    "pages/movable-area/movable-area",
+    "pages/richText/richText",
+    "pages/progress/progress",
+    "pages/case/photo"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#f00",
+    "navigationBarTitleText": "今日头条",
+    "navigationBarTextStyle": "white"
+  },
+  "requiredBackgroundModes": [
+    "audio"
+  ],
+  "permission": {
+    "scope.userLocation": {
+      "desc": "获取你的当前位置信息"
+    }
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

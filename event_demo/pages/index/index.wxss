@@ -1,0 +1,43 @@
+/* pages/index/index.wxss */
+
+.menu{
+background-color: lightcyan;
+}
+
+.scroll-nav{
+  white-space: nowrap;
+  display: flex;
+  font-size: 30rpx;
+  height: 60rpx;
+  line-height: 60rpx;
+}
+
+.scroll-nav navigator{
+  font-weight: bold;
+  margin: 0 15rpx;
+}
+
+.swiper-view1{
+  width: 100%;
+  height: 800rpx;
+  background-color: red;
+}
+
+.swiper-view2{
+ width: 100%;
+  height: 800rpx;
+  background-color: green;
+}
+
+.color-red{
+ color: red;
+}
+.color-green{
+  color: green;
+}
+
+
+
+
+
+

@@ -1,0 +1,6 @@
+<!--pages/record/record.wxml-->
+<view style="margin: 25%">
+  <button type="primary" bindtap="record">录制音频</button>
+  <button type="warn" bindtap="playRecord">播放音频</button>
+  <button bindtap="pauseVoice">暂停音频</button>
+</view>

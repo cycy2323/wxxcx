@@ -1,0 +1,3 @@
+<!--pages/webSocket/webSocket.wxml-->
+<button bindtap="webScoketTap">webscoket  send</button>
+<rich-text nodes="{{html}}"></rich-text>

@@ -1,0 +1,4 @@
+<!-- 数组 -->
+<rich-text nodes="{{nodes}}" bindtap="tap"></rich-text>
+<!-- 字符串 -->
+<rich-text nodes="{{htmlString}}"></rich-text>

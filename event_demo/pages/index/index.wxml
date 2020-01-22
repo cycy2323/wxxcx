@@ -1,0 +1,25 @@
+<view class="container">
+  <view class="menu">
+    <scroll-view scroll-x>
+      <view class="scroll-nav">
+        <navigator url="" data-navidx="0" bindtap="touchNwsTab" class="{{current == 0 ? 'color-red' : ''}}">社会新闻</navigator>
+        <navigator url="" data-navidx="1" bindtap="touchNwsTab" class="{{current == 1 ? 'color-green' : ''}}">国际新闻</navigator>
+        <navigator url="">国内新闻</navigator>
+        <navigator url="">娱乐新闻</navigator>
+        <navigator url="">体育新闻</navigator>
+        <navigator url="">综合新闻</navigator>
+      </view>
+    </scroll-view>
+  </view>
+
+  <view>
+    <swiper current="{{current}}" bindchange="swiperChange">
+      <swiper-item>
+        <view class="swiper-view1">社会新闻</view>
+      </swiper-item>
+      <swiper-item>
+        <view class="swiper-view2">国际新闻</view>
+      </swiper-item>
+    </swiper>
+  </view>
+</view>

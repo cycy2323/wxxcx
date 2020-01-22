@@ -1,0 +1,15 @@
+<!--pages/network/network.wxml-->
+<view style="margin: 30px auto">
+  <button bindtap="downloadFile" type="primary">下载</button>
+  <view style="marginTop: 30px">
+    <progress percent="{{percent}}" show-info></progress>
+  </view>
+</view>
+
+<view style="margin: 30px auto">
+  <button bindtap="requestDown">request下载模式（传输）</button>
+</view>
+
+<view style="margin: 30px auto">
+  <button bindtap="uploadImage">上传图片</button>
+</view>

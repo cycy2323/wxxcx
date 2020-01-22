@@ -1,0 +1,5 @@
+/* pages/canvas/canvas.wxss */
+.canvas-cls{
+  height: 600rpx;
+  background: lightblue;
+}

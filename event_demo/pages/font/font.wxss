@@ -1,0 +1,4 @@
+/* pages/font/font.wxss */
+.font-face{
+  font-family: 'Bitstream Vera Serif Bold'
+}

@@ -1,0 +1,4 @@
+<view>
+ <button type="warn" style="margin-top: 30px" bindtap="startCompass">罗盘监控开始</button>
+ <button type="warn" style="margin-top: 30px" bindtap="endCompass">罗盘监控结束</button>
+</view>

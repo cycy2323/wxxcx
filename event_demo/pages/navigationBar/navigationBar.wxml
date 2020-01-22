@@ -1,0 +1,1 @@
+<button type="primary" bindtap="setNavigationBar">动态设置导航栏</button>

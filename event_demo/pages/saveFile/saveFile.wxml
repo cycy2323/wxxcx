@@ -1,0 +1,5 @@
+<camera device-position="back" flash="off" style="width:100%;height:300px"></camera>
+<button type="primary" bindtap="takePhoto">拍照</button>
+<button bindtap="save">保存按钮</button>
+<button bindtap="savedList">查看已经存储在本地的文件列表</button>
+<button bindtap="savedFileInfo">已经存储在本地一个文件的信息</button>

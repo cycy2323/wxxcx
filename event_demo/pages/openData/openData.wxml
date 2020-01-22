@@ -1,0 +1,9 @@
+<button style="margin-top: 30px" type="warn" bindtap="getAccessToken">获取getAccessToken</button>
+<button style="margin-top: 30px" type="warn" bindtap="getUserInfo">获取当前用户信息</button>
+<button style="margin-top: 30px" type="warn" bindtap="getAdress">收货地址</button>
+<button style="margin-top: 30px" type="warn" bindtap="getLocation">获取位置</button>
+<button style="margin-top: 30px" type="warn" bindtap="chooseLocation">打开地图选择位置</button>
+<button style="margin-top: 30px" type="warn" open-type="share">转发分享</button>
+<button style="margin-top: 30px" type="warn" bindtap="userLogin">用户登录</button>
+<button style="margin-top: 30px" type="warn" bindtap="getPhoneNumber" open-type="getPhoneNumber">获取手机号</button>
+<button style="margin-top: 30px" type="warn" bindtap="nearByPoilist">附近小程序</button>

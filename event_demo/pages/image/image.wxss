@@ -1,0 +1,4 @@
+/* pages/image/image.wxss */
+.btn-img{
+  margin: 50rpx 50rpx;
+}

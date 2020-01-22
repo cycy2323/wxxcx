@@ -1,0 +1,6 @@
+<!--pages/menu/menu.wxml-->
+<navigator url="/pages/movable-area/movable-area">movable-area</navigator>
+<navigator url="/pages/index/index">今日头条</navigator>
+<navigator url="/pages/audio/audio">音频、视频</navigator>
+<navigator url="/pages/richText/richText">richText</navigator>
+<navigator url="/pages/progress/progress">progress</navigator>
